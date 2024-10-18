@@ -1,12 +1,12 @@
-import React from 'react'
+"use client"
 import Section1 from './section1'
 
-const About = () => {
+const AboutUs = () => {
   return (
-    <div>
+    <>
       <Section1/>
-    </div>
+    </>
   )
 }
 
-export default About
+export default AboutUs

@@ -1,7 +1,4 @@
-
-// import { FaPlusCircle, FaCheckCircle, FaTasks } from "react-icons/fa";
-
-
+"use client"
 
 const Section2 = () => {
   return (
